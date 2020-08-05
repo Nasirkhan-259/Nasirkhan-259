@@ -3,7 +3,7 @@
 ## I'm a Husband, Father, Developer!
 - 🔭 I’m currently working on a [VS Code Course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to for remote job.
+- 👯 I’m looking for remote job.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Games
 
