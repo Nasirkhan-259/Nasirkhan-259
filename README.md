@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Nasirkhan-259 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nasirkhan-259&show_icons=true&hide_border=true" />
 
 [website]: https://www.fiverr.com/nasirkhan259
 [instagram]: https://www.instagram.com/nasirkhan259
