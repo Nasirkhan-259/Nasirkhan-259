@@ -1,8 +1,8 @@
 ### Hi there, I'm Nasir Khan -  👋
 
 ## I'm a Husband, Father, Developer!
-- 🔭 I’m currently working on a [VS Code Course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working as a Backend Developer at Nice One (KSA)!
+- 🌱 I’m currently learning React js , DevOPs concepts 🤣
 - 👯 I’m looking for remote job.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Games
