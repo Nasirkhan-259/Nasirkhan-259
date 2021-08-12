@@ -3,8 +3,8 @@
 ## I'm a Husband, Father, Developer!
 - 🔭 I’m currently working as a Backend Developer at Nice One (KSA)!
 - 🌱 I’m currently learning React js , DevOPs concepts 🤣
-- 👯 I’m looking for remote job.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking for remote job with a multi national company.
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Games
 
 ### Connect with me:
