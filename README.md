@@ -1,11 +1,12 @@
 ### Hi there, I'm Nasir Khan -  👋
 
-## I'm a Husband, Father, Developer!
-- 🔭 I’m currently working as a Backend Developer at Nice One (KSA)!
-- 🌱 I’m currently learning React js , DevOPs concepts 🤣
-- 👯 I’m looking for remote job with a multi national company.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Games
+## An Experienced Backend Developer and Tech Enthusiast
+- 🔭 I'm a seasoned Backend Developer currently excelling at Nice One (KSA), where I specialize in creating robust web and API solutions. My journey in web development spans over 7 years, marked by significant contributions to various domains including e-commerce and government projects.
+- 🌱 Continuously expanding my skillset, I'm currently exploring React.js and diving into the world of DevOps to further broaden my full-stack development capabilities.
+- 🌍 On the lookout for challenging remote opportunities with multinational companies, I aim to leverage my expertise in Web Development, API Architecture, Data Visualization, and extensive tech stack, including MySQL, MongoDB, Node.js, Express.js, PHP (Laravel, CodeIgniter), React.js, AWS, and Linux Servers.
+- 🥅 2024 Goals: Committed to contributing more to Open Source projects and utilizing my technical skills to make a positive impact in the tech community.
+⚡ Beyond coding, I have a passion for gaming, which complements my love for technology and innovation.
+- 🤝 Proud of the work I've done at KPK Culture & Tourism Authority and RSI Concepts, I've honed my skills in various aspects of backend development and project management.
 
 ### Connect with me:
 
